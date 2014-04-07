@@ -6,7 +6,7 @@ g=Graph.Read_GraphML('fondecyt-13429.graphml')
 index=[]
 
 for line in salida.readlines():
-    index.append(int(line))
+    index.append(int(line.rstrip()))
     
 index2=[]
 index2=sorted(enumerate(index), key=operator.itemgetter(1), reverse=True)
