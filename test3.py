@@ -15,4 +15,7 @@ index3=[]
 for i in range(0,99):
 	index3.append(index2[i][0])
 
-print index3
+g2=g.subgraph(index3)
+g2.write_graphml("subgrafo-100-2-betwen.graphml")
+g2.write_dot("subgrafo-100-2-betwen.dot")
+
