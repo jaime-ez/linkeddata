@@ -1,7 +1,7 @@
 import operator
 from igraph import *
 
-salida=open('out-sub100.txt','a')
+salida=open('out-sub100.txt','r')
 g=Graph.Read_GraphML('fondecyt-13429.graphml')
 index=[]
 
