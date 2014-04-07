@@ -1,0 +1,604 @@
+/* Created by igraph 0.5.4 */
+graph {
+  0 [
+    type=proyecto
+    id=n50
+    name=1841004
+    betweeness=1093.666667
+  ];
+  1 [
+    type=proyecto
+    id=n665
+    name=1860835
+    betweeness=1396.450000
+  ];
+  2 [
+    type=proyecto
+    id=n736
+    name=1860815
+    betweeness=668.500000
+  ];
+  3 [
+    type=proyecto
+    id=n827
+    name=1868011
+    betweeness=1424
+  ];
+  4 [
+    type=proyecto
+    id=n1004
+    name=1860801
+    betweeness=1073.000000
+  ];
+  5 [
+    type=proyecto
+    id=n1233
+    name=1860808
+    betweeness=595.500000
+  ];
+  6 [
+    type=proyecto
+    id=n1966
+    name=1970768
+    betweeness=585.500000
+  ];
+  7 [
+    type=proyecto
+    id=n2389
+    name=1971132
+    betweeness=988.916667
+  ];
+  8 [
+    type=proyecto
+    id=n2984
+    name=1970878
+    betweeness=586.607143
+  ];
+  9 [
+    type=proyecto
+    id=n5343
+    name=1900182
+    betweeness=1059.316667
+  ];
+  10 [
+    type=proyecto
+    id=n5507
+    name=5960001
+    betweeness=1002
+  ];
+  11 [
+    type=proyecto
+    id=n5530
+    name=5960011
+    betweeness=923
+  ];
+  12 [
+    type=proyecto
+    id=n5544
+    name=5960017
+    betweeness=1013.500000
+  ];
+  13 [
+    type=proyecto
+    id=n5559
+    name=5960002
+    betweeness=656.500000
+  ];
+  14 [
+    type=proyecto
+    id=n5570
+    name=5960021
+    betweeness=2942.166667
+  ];
+  15 [
+    type=proyecto
+    id=n6172
+    name=1960600
+    betweeness=1218.500000
+  ];
+  16 [
+    type=proyecto
+    id=n6787
+    name=1960940
+    betweeness=1351.500000
+  ];
+  17 [
+    type=proyecto
+    id=n7146
+    name=1960957
+    betweeness=693.800000
+  ];
+  18 [
+    type=proyecto
+    id=n7271
+    name=1910721
+    betweeness=744.150000
+  ];
+  19 [
+    type=proyecto
+    id=n8023
+    name=1030209
+    betweeness=1570
+  ];
+  20 [
+    type=persona
+    id=n8024
+    name="Nelson Orlando Moraga Benavides"
+    betweeness=656
+  ];
+  21 [
+    type=proyecto
+    id=n8135
+    name=1030033
+    betweeness=854.500000
+  ];
+  22 [
+    type=proyecto
+    id=n8902
+    name=1911314
+    betweeness=672.874610
+  ];
+  23 [
+    type=proyecto
+    id=n8917
+    name=1030861
+    betweeness=640.500000
+  ];
+  24 [
+    type=proyecto
+    id=n9142
+    name=1910651
+    betweeness=708.166667
+  ];
+  25 [
+    type=proyecto
+    id=n9237
+    name=1030181
+    betweeness=1331.633333
+  ];
+  26 [
+    type=proyecto
+    id=n10003
+    name=1030245
+    betweeness=650.333333
+  ];
+  27 [
+    type=proyecto
+    id=n10220
+    name=1030557
+    betweeness=736.166667
+  ];
+  28 [
+    type=proyecto
+    id=n10415
+    name=1030645
+    betweeness=614
+  ];
+  29 [
+    type=proyecto
+    id=n10425
+    name=1040731
+    betweeness=566.166667
+  ];
+  30 [
+    type=proyecto
+    id=n11078
+    name=1040854
+    betweeness=701.250000
+  ];
+  31 [
+    type=proyecto
+    id=n11310
+    name=1010246
+    betweeness=596.333333
+  ];
+  32 [
+    type=proyecto
+    id=n11674
+    name=1040622
+    betweeness=1233.500000
+  ];
+  33 [
+    type=proyecto
+    id=n11908
+    name=1011057
+    betweeness=735
+  ];
+  34 [
+    type=proyecto
+    id=n12028
+    name=1010644
+    betweeness=718.583333
+  ];
+  35 [
+    type=proyecto
+    id=n12314
+    name=1040630
+    betweeness=934.366667
+  ];
+  36 [
+    type=proyecto
+    id=n12373
+    name=1040148
+    betweeness=862
+  ];
+  37 [
+    type=proyecto
+    id=n12454
+    name=1040987
+    betweeness=610.500000
+  ];
+  38 [
+    type=proyecto
+    id=n12774
+    name=1040339
+    betweeness=994
+  ];
+  39 [
+    type=proyecto
+    id=n12842
+    name=1010529
+    betweeness=1010.000000
+  ];
+  40 [
+    type=proyecto
+    id=n12919
+    name=1040907
+    betweeness=836.100000
+  ];
+  41 [
+    type=proyecto
+    id=n13124
+    name=1010843
+    betweeness=576.333333
+  ];
+  42 [
+    type=proyecto
+    id=n13306
+    name=1060750
+    betweeness=800
+  ];
+  43 [
+    type=proyecto
+    id=n13563
+    name=8990004
+    betweeness=3224
+  ];
+  44 [
+    type=persona
+    id=n13589
+    name="Valeria Muriel Matus Ritter"
+    betweeness=1158
+  ];
+  45 [
+    type=proyecto
+    id=n13635
+    name=8990006
+    betweeness=803.138095
+  ];
+  46 [
+    type=proyecto
+    id=n13647
+    name=8000016
+    betweeness=569.550000
+  ];
+  47 [
+    type=proyecto
+    id=n13755
+    name=8000017
+    betweeness=622
+  ];
+  48 [
+    type=proyecto
+    id=n13781
+    name=8980005
+    betweeness=1082.333333
+  ];
+  49 [
+    type=proyecto
+    id=n13804
+    name=8980008
+    betweeness=1085.716667
+  ];
+  50 [
+    type=proyecto
+    id=n13820
+    name=8980007
+    betweeness=2686.583333
+  ];
+  51 [
+    type=persona
+    id=n13831
+    name="Ramiro Joel Diaz Harris"
+    betweeness=606.250000
+  ];
+  52 [
+    type=proyecto
+    id=n13843
+    name=8980002
+    betweeness=1034.984848
+  ];
+  53 [
+    type=proyecto
+    id=n13887
+    name=8970028
+    betweeness=735.500000
+  ];
+  54 [
+    type=proyecto
+    id=n13899
+    name=8970010
+    betweeness=708.573810
+  ];
+  55 [
+    type=proyecto
+    id=n13914
+    name=8970011
+    betweeness=902.666667
+  ];
+  56 [
+    type=proyecto
+    id=n13953
+    name=8010002
+    betweeness=2509.653363
+  ];
+  57 [
+    type=proyecto
+    id=n13966
+    name=8010006
+    betweeness=2569.166667
+  ];
+  58 [
+    type=proyecto
+    id=n14750
+    name=1060637
+    betweeness=844.700000
+  ];
+  59 [
+    type=proyecto
+    id=n14770
+    name=1060999
+    betweeness=916
+  ];
+  60 [
+    type=proyecto
+    id=n14899
+    name=1061262
+    betweeness=675.916667
+  ];
+  61 [
+    type=proyecto
+    id=n17312
+    name=1880432
+    betweeness=625.700000
+  ];
+  62 [
+    type=proyecto
+    id=n17600
+    name=1931089
+    betweeness=603.166667
+  ];
+  63 [
+    type=proyecto
+    id=n17916
+    name=1880437
+    betweeness=621.250000
+  ];
+  64 [
+    type=proyecto
+    id=n17950
+    name=1881217
+    betweeness=629.666667
+  ];
+  65 [
+    type=proyecto
+    id=n18044
+    name=1880249
+    betweeness=813.333333
+  ];
+  66 [
+    type=proyecto
+    id=n18827
+    name=1880972
+    betweeness=593.333333
+  ];
+  67 [
+    type=proyecto
+    id=n21011
+    name=1070285
+    betweeness=633.916667
+  ];
+  68 [
+    type=proyecto
+    id=n21246
+    name=1085208
+    betweeness=1162.516667
+  ];
+  69 [
+    type=proyecto
+    id=n22684
+    name=1872019
+    betweeness=649.500000
+  ];
+  70 [
+    type=proyecto
+    id=n22779
+    name=1070799
+    betweeness=976.869048
+  ];
+  71 [
+    type=proyecto
+    id=n23224
+    name=1872026
+    betweeness=1843
+  ];
+  72 [
+    type=proyecto
+    id=n23464
+    name=1050288
+    betweeness=575
+  ];
+  73 [
+    type=proyecto
+    id=n23675
+    name=1050482
+    betweeness=586.500000
+  ];
+  74 [
+    type=proyecto
+    id=n23715
+    name=1050745
+    betweeness=641
+  ];
+  75 [
+    type=proyecto
+    id=n24083
+    name=1050576
+    betweeness=656
+  ];
+  76 [
+    type=proyecto
+    id=n24179
+    name=1872023
+    betweeness=798.500000
+  ];
+  77 [
+    type=proyecto
+    id=n25504
+    name=1870255
+    betweeness=564.333333
+  ];
+  78 [
+    type=proyecto
+    id=n26004
+    name=1872036
+    betweeness=656
+  ];
+  79 [
+    type=proyecto
+    id=n26999
+    name=1920098
+    betweeness=597.023810
+  ];
+  80 [
+    type=proyecto
+    id=n27374
+    name=1920738
+    betweeness=998.716667
+  ];
+  81 [
+    type=proyecto
+    id=n27680
+    name=1020795
+    betweeness=771.833333
+  ];
+  82 [
+    type=proyecto
+    id=n27942
+    name=1020908
+    betweeness=668.250000
+  ];
+  83 [
+    type=proyecto
+    id=n28028
+    name=1020485
+    betweeness=589
+  ];
+  84 [
+    type=proyecto
+    id=n28596
+    name=1020129
+    betweeness=735.500000
+  ];
+  85 [
+    type=proyecto
+    id=n28744
+    name=1020801
+    betweeness=781
+  ];
+  86 [
+    type=proyecto
+    id=n28797
+    name=1020029
+    betweeness=605.500000
+  ];
+  87 [
+    type=proyecto
+    id=n29495
+    name=1020517
+    betweeness=730.107143
+  ];
+  88 [
+    type=proyecto
+    id=n29825
+    name=1940260
+    betweeness=756
+  ];
+  89 [
+    type=proyecto
+    id=n29958
+    name=1940694
+    betweeness=638.000000
+  ];
+  90 [
+    type=proyecto
+    id=n29975
+    name=1940266
+    betweeness=836.500000
+  ];
+  91 [
+    type=proyecto
+    id=n30205
+    name=1940420
+    betweeness=687.789662
+  ];
+  92 [
+    type=proyecto
+    id=n30382
+    name=1940441
+    betweeness=585
+  ];
+  93 [
+    type=proyecto
+    id=n31403
+    name=9893503
+    betweeness=794.000000
+  ];
+  94 [
+    type=proyecto
+    id=n31799
+    name=1941073
+    betweeness=836.500000
+  ];
+  95 [
+    type=proyecto
+    id=n32064
+    name=1940629
+    betweeness=883.500000
+  ];
+  96 [
+    type=proyecto
+    id=n34320
+    name=1820525
+    betweeness=660.924675
+  ];
+  97 [
+    type=proyecto
+    id=n36607
+    name=1000517
+    betweeness=594.500000
+  ];
+  98 [
+    type=proyecto
+    id=n39606
+    name=1930622
+    betweeness=839.300000
+  ];
+
+  20 -- 19;
+  36 -- 20;
+  44 -- 43;
+  51 -- 50;
+  56 -- 44;
+  70 -- 51;
+}
